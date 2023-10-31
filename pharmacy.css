@@ -1,0 +1,166 @@
+
+.c1{
+padding: 40px;
+
+
+
+}
+.c2{
+    background-color: rgb(170, 3, 3);
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    color: rgb(240, 240, 240);
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.flex-container {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .flex-container > div {
+    background-color: #000000;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  .flex-container2 {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .flex-container2 > div {
+    background-color: #000000;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+ .c3{
+    color: #000000;
+    background-color: rgba(236, 236, 236, 0.938);
+    width: 100%;
+    height: 40px;
+
+ }
+.best{
+    text-align: center;
+    color: rgb(248, 252, 255);
+    
+}
+h1:hover{
+  color: red;
+}
+
+
+.flex-container3 {
+  
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    
+  }
+  
+  .flex-container3 > div {
+    background-color: #e0dbdb;
+    margin: 100px;
+    padding: 40px;
+    font-size: 30px;
+    border: 2px red;
+  }
+ 
+
+  .topnav {
+    overflow: hidden;
+    background-color: rgb(170, 3, 3)
+  }
+  
+  .topnav a {
+    float: left;
+    color: #eee9e9e5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .bt{
+    background-color: red;
+    color: white;
+    width: 50%;
+    height: 30px;
+    box-shadow: white;
+   
+
+  }
+.m{
+  color: white;
+}
+
+h5:hover{
+  color: rgb(228, 29, 29);
+}
+.egypt{
+  width: 100%;
+  height: 40px;
+  padding: 5px;
+    margin: 60px;
+}
+footer {
+  background-color: #8f8e8ee5;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+
+.i{
+ color: white;
+}
+
+h6:hover{
+  background-color: #8f8e8ee5;
+}
+
+
+.fa{
+  background-color: rgb(212, 208, 208);
+}
+.fa h1{
+  text-align: center;
+}
+
+.search-input {
+  border: 2px solid #df0a0ae7;
+  
+  color: #000000;
+ width: 300px;
+ height: 20px;
+ margin: 30px;
+  border-radius: 5px;
+ 
+  
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #e20404;
+  box-shadow: 0 0 5px #f30606e7;
+ 
+}
+
+footer p {
+  margin: 0;
+}
